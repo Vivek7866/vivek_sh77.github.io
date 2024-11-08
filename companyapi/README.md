@@ -1,2 +1,2 @@
 This is a readme file here we can add instructions and it documnents all the things related to project.
-The technology used in this project Python and Django restframework.
+Basically I am using git as a version control system.
